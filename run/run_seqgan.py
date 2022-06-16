@@ -29,7 +29,7 @@ else:
 # Executables
 executable = 'python'  # specify your own python interpreter path here
 rootdir = '../'
-scriptname = 'main.py'
+scriptname = '/content/TextGAN/main.py'
 
 # ===Program===
 if_test = int(False)
