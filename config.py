@@ -177,7 +177,7 @@ pretrained_dis_path = pretrain_root + 'dis_pretrain_{}_{}_sl{}_sn{}.pt'.format(r
                                                                                samples_num)
 pretrained_clas_path = pretrain_root + 'clas_pretrain_{}_{}_sl{}_sn{}.pt'.format(run_model, model_type, max_seq_len,
                                                                                  samples_num)
-signal_file = 'run_signal.txt'
+signal_file = '/content/TextGAN/run_signal.txt'
 
 tips = ''
 
