@@ -1,11 +1,4 @@
-# -*- coding: utf-8 -*-
-# @Author       : William
-# @Project      : TextGAN-william
-# @FileName     : SeqGAN_D.py
-# @Time         : Created at 2019-04-25
-# @Blog         : http://zhiweil.ml/
-# @Description  : 
-# Copyrights (C) 2018. All Rights Reserved.
+
 
 from models.discriminator import CNNDiscriminator
 
